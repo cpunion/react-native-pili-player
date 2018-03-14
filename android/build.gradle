@@ -35,5 +35,5 @@ dependencies {
     compile 'com.android.support:appcompat-v7:23.1.1'
     compile 'com.facebook.react:react-native:+'
     compile 'com.qiniu:happy-dns:0.2.+'
-    compile files('libs/pldroid-player-2.0.4.jar')
+    compile files('libs/pldroid-player-2.1.1.jar')
 }
